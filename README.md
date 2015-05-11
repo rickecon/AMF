@@ -1,2 +1,2 @@
 # AMF
-Alternate Model Forecast method for solving OLG transition paths
+This repository contains the MATLAB code for solving the overlapping generations (OG) model using the alternate model forecast (AMF) method from the paper "OLG Life Cycle Model Transition Paths: Alternate Model Forecast Method," by Richard W. Evans and Kerk L. Phillips (Computational Economics, 43:1, pp. 105-131, January 2014). The MATLAB folder contains the three m-files required to calculate the steady state, standard time path iteration (TPI) solution, and the alternate model forecast (AMF) solution. The files must be run in that order. The repository also contains a PDF version of the paper.

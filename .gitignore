@@ -1,0 +1,54 @@
+#########################
+# Exclude Compiled Files
+#########################
+bin/
+*.pyc
+*.exe
+SourceCode/build/
+
+##############
+# LaTex Files
+##############
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.nav
+*.pdfsync
+*.synctex.gz
+*.bak
+*.snm
+*.toc
+
+
+################
+# Database Files
+################
+*.hdf5
+*.npz
+
+
+###################################
+# Exclude Output From Scripted Jobs
+###################################
+*.o*
+*.e*
+
+####################################
+# Exclude Sublime Text project files
+####################################
+*.sublime*
+
+####################################
+# Exclude Mac OSX system files
+####################################
+.DS_Store
+
+########
+# MISC.
+########
+*.zip
+*.tar.gz
